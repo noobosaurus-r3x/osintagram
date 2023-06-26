@@ -48,9 +48,9 @@ or Interactive mode:
 ```bash
 python osintgram.py -i
 ```
-Replace <session_id> with your Instagram session ID and <username> with the Instagram username you want to retrieve information for.
+Replace <session_id> with your Instagram session ID and < username > with the Instagram username you want to retrieve information for.
 
-To get your session ID, log into your account, and check your cookies. Copy/Paste the Value of the "sessionid".
+To get your session ID, log into your Instagram account, and check your cookies. Copy/Paste the Value of the "sessionid".
 
 Optional arguments:
 
