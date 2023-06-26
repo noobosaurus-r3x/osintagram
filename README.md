@@ -21,7 +21,10 @@ ChatGPT was used during the process.
 - Colored output for improved readability and visual appeal.
 
 ## Requirements
-
+```bash
+pip install -r requirements.txt
+```
+or
 - Python 3.x
 - Requests argparse (`pip install argparse`)
 - Requests library (`pip install requests`)
