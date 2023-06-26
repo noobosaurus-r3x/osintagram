@@ -1,6 +1,10 @@
 # osintgram
 
-Osintgram is a Python script inspired by Palenath's [Toutatis](https://github.com/megadose/toutatis) script. It allows you to retrieve information about an Instagram user, including their profile details, followers, and following. Additionally, it provides options to save the output to a file and includes enhancements such as progress indicators, interactive prompts, and colored output.
+Osintgram is a Python script inspired by Palenath's [Toutatis](https://github.com/megadose/toutatis) script. 
+
+I worked by adding a few options and rewriting his code. It is obviously not perfect but I thought it would be cool to share it anyway.
+
+That script allows you to retrieve information about an Instagram user, including their profile details, profile picture, followers, and people following. Additionally, it provides options to save the output to a file and includes enhancements such as progress indicators, interactive prompts, and colored output.
 
 ## Features
 
