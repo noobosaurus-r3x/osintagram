@@ -6,6 +6,8 @@ I worked by adding a few options and rewriting his code. It is obviously not per
 
 That script allows you to retrieve information about an Instagram user, including their profile details, profile picture, followers, and people following. Additionally, it provides options to save the output to a file and includes enhancements such as progress indicators, interactive prompts, and colored output.
 
+ChatGPT was used during the process.
+
 ## Features
 
 - Retrieve user information including username, full name, verification status, follower count, following count, number of posts, biography, website, and more.
