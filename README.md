@@ -1,6 +1,6 @@
-# osintgram
+# osintagram
 
-Osintgram is a Python script inspired by Palenath's [Toutatis](https://github.com/megadose/toutatis) script. 
+Osintagram is a Python script inspired by Palenath's [Toutatis](https://github.com/megadose/toutatis) script. 
 
 I worked by adding a few options and rewriting his code. It is obviously not perfect but I thought it would be cool to share it anyway.
 
@@ -39,19 +39,19 @@ or
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/noobosaurus-r3x/osintgram.git
+git clone https://github.com/noobosaurus-r3x/osintagram.git
 ```
 Navigate to the project directory:
 ```bash
-cd osintgram
+cd osintagram
 ```
 Run the script:
 ```bash
-python osintgram.py -s <session_id> -u <username> [-f] [-g] [-o <output_file>]
+python osintagram.py -s <session_id> -u <username> [-f] [-g] [-o <output_file>]
 ```
 or Interactive mode:
 ```bash
-python osintgram.py -i
+python osintagram.py -i
 ```
 Replace <session_id> with your Instagram session ID and < username > with the Instagram username you want to retrieve information for.
 
