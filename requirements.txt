@@ -1,0 +1,7 @@
+argparse
+requests
+phonenumbers
+pycountry
+tabulate
+tqdm
+termcolor
